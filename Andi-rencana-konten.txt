@@ -1,5 +1,8 @@
 Rencana konten
 - Matematika
   * Materi SMA
+   -Fungsi
+   -Integral
+ -Materi Olimpiade
 - Program
   * C program
