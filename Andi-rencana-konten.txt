@@ -3,5 +3,7 @@ Rencana konten
   * Materi SMA
    -Fungsi
    -Turunan
+   -Integral
+ -Materi Olimpiade
 - Program
   * C program
