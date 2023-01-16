@@ -1,0 +1,4 @@
+Resolusi Tahun 2023
+- Belajar Javascript
+- Belajar Git
+- Belajar Github
